@@ -2,7 +2,7 @@
 int main(void)
 {
     printf("hello git-start!\n");
-    printf("go");
+    printf("go feature");
     printf("feature/some-feature\n");
     return 0;
 }
